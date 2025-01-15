@@ -1,0 +1,127 @@
+objects:
+
+  AH_hagelslag_mel_tag36_11_00000 : 
+    april_tag:
+      goal_id:
+        23
+    position:
+      x: -3-3
+      y: -2.35
+      z: 1.43968
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+      
+      
+  april_tag_cube_23: 
+    april_tag:
+      goal_id:
+        23
+    position:
+      x: 0.7
+      y: 2.4
+      z: 0.89
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.66
+      w: 0.7451744
+
+  april_tag_cube_8: 
+    april_tag:
+      goal_id:
+        8
+    position:
+      x: 1
+      y: 2.4
+      z: 0.89
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.689
+      w: 0.72
+      
+# #Milk
+#   aruco_cube_111_1:
+#   position:
+#     x: -0.722754
+#     y: -3.248613
+#     z: 0.862500
+#   orientation:
+#     x: 0 
+#     y: 0
+#     z: 0
+#     w: 1
+      
+#   aruco_cube_111:
+#   position:
+#     x: -0.499800
+#     y: -3.250579
+#     z: 0.862500  
+#   orientation:
+#     x: 0 
+#     y: 0
+#     z: 0
+#     w: 1
+    
+#   aruco_cube_111_0:
+#     position:
+#       x: -0.499800
+#       y: -3.250579
+#       z: 0.862500
+#     orientation:
+#       x: 0 
+#       y: 0
+#       z: 0
+#       w: 1
+      
+#Hagelslag
+  april_tag_cube_24:
+    april_tag:
+      goal_id:
+        24
+    position: 
+      x: 0.405612
+      y: 2.410941
+      z: 0.895000
+    orientation:
+      x: 0
+      y: 0
+      z: -0.03
+      w: 1
+     
+#Tea
+  april_tag_cube_25:
+    april_tag:
+      goal_id:
+        25
+    position:
+      x: 0.414020
+      y: 2.652786
+      z: 0.849994
+    orientation:
+      x: 0
+      y: 0
+      z: -0.026969
+      w: 0.999636
+  #jam  
+  april_tag_cube_26:
+    april_tag:
+      goal_id:
+        26
+    position:
+      x: 2.37509
+      y: -1.59353
+      z: 0.849997
+    orientation:
+      x: 0
+      y: 0
+      z: 0.986
+      w: 0.163
+
+   
+#you can add more products to the simulation and then add the information here
+
+

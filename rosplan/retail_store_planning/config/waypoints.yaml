@@ -1,0 +1,96 @@
+waypoints:
+  wp0:
+    position:
+      x: -1.0
+      y: -0.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  wp_table_1:
+    position:
+      x: 0.84
+      y: 0.84
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.73
+      w: 0.68
+  wp_table_2:
+    position:
+      x: -0.56
+      y: -2.13
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.69
+      w: 0.72
+  wp_table_3:
+    position:
+      x: 0.64
+      y: -1.86
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+  wp_table_3_2:
+    position:
+      x: 0.68
+      y: -1.86
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+  wp_table_3_3:
+    position:
+      x: 0.72
+      y: -1.86
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+# Shelves
+  cab_2_shelves:
+    position:
+      x: -2.2
+      y: -2.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  cab_2_shelves_0:
+    position:
+      x: -2.2
+      y: -0.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+# bin
+  basket:
+    position:
+      x: -2.4
+      y: 3.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+
+
+

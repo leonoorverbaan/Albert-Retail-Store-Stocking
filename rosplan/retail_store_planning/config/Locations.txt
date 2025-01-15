@@ -1,0 +1,32 @@
+roslaunch albert_gazebo albert_gazebo_navigation.launch
+
+roslaunch retail_store_planning rosplan_sim.launch
+
+roslaunch retail_store_skills load_skills.launch
+
+cd ~/ROSPlan_ws/src/rosplan/retail_store_planning/
+./rosplan_executor.bash
+
+x y z r p y
+
+Shelves
+cab_2_shelves -3.5 -2 0 0 0 1.57
+cab_2_shelves_0 -3.5 -0.5 0 0 0 1.57
+cab_2_shelves -3.5 -0.5 0 0 0 1.57
+basket -3.5 3.5 0.131233 0 0 0
+
+WP: change x to be +0.5 z to be 0 and y to be the same
+
+Items
+AH_hagelslag_mel_tag36_11_00000 -3.3 -2.35 1.43968 0 -0 -0
+AH_thee_mango_tag_11_00030 -3.3 -2 1.394686 0 0 0
+AH_thee_bosvruchten_tag36_11_00049 -3.3 -1.65 1.394686 0 0 0
+
+
+Sorting
+AH_hagelslag_mel_tag36_11_00000_clone -3.3 -0.9 1.43968 0 -0 -0
+AH_hagelslag_mel_tag36_11_00000_clone_clone -3.3 -0.55 1.43968 0 -0 -0
+AH_hagelslag_mel_tag36_11_00000_clone_clone_clone -3.3 -0.2 1.43968 0 -0 -0
+
+Tables
+ 

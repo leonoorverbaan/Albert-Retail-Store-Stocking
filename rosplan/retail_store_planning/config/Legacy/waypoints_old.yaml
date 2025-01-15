@@ -1,0 +1,117 @@
+waypoints:
+  wp0:
+    position:
+      x: -1.0
+      y: -0.5
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  wp_table_1:
+    position:
+      x: -2.3
+      y: -2
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
+  wp_table_2:
+    position:
+      x: -0.5
+      y: -2.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.69
+      w: 0.72
+  wp_table_3:
+    position:
+      x: 2.0
+      y: -2.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+      
+  wp_bin_1:
+    position:
+      x: 0.74
+      y: 0.80
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+      
+  wp_shelf_snack_1:
+    position:
+      x: -3.60
+      y: -1.33
+      z: 1.20
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.0137
+      w: 0.99
+      
+  wp_shelf_drink_1:
+    position:
+      x: -3.60
+      y: 1.072230
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.0137
+      w: 0.99
+  wp_snack_robo:
+    position:
+      x: -2.80
+      y: -1.33
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.1
+      w: 0.0
+  wp_drink_robo:
+    position:
+      x: -2.50
+      y: 1.07
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.1
+      w: 0.0
+      
+
+#fill in the correct waypoints for the cabinets and uncomment      
+  #wp_cabinet_1:
+    #position:
+      #x: 0.48
+      #y: -1.24
+      #z: 0.0
+    #orientation:
+      #x: 0.0
+      #y: 0.0
+      #z: -0.707
+      #w: 0.707
+  #wp_cabinet_2:
+    #position:
+      #x: -0.4356
+      #y: -1.24
+      #z: 0.0
+    #orientation:
+      #x: 0.0
+      #y: 0.0
+      #z: -0.707
+      #w: 0.707

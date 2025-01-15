@@ -1,0 +1,101 @@
+objects:
+# Storing
+  AH_hagelslag_melk_tag36_11_00000: 
+    april_tag:
+      goal_id:
+        36
+    position:
+      x: -3.3
+      y: -2.35
+      z: 1.43968
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+      
+  AH_thee_mango_tag_11_00030: 
+    april_tag:
+      goal_id:
+        11
+    position:
+      x: -3.3
+      y: -2.0
+      z: 1.394686
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+      
+  AH_thee_bosvruchten_tag36_11_00049: 
+    april_tag:
+      goal_id:
+        12
+    position:
+      x: -3.3
+      y: -1.65
+      z: 1.394686
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+# Placing
+  hs_place_location: 
+    april_tag:
+      goal_id:
+        13
+    position:
+      x: -3.5
+      y: 3.5
+      z: 1.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1    
+ 
+# Sorting      
+  AH_hagelslag_melk_tag36_11_00001: 
+    april_tag:
+      goal_id:
+        14
+    position:
+      x: -3.3
+      y: -0.9
+      z: 1.43968
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+      
+  AH_hagelslag_melk_tag36_11_00002: 
+    april_tag:
+      goal_id:
+        15
+    position:
+      x: -3.3
+      y: -0.55
+      z: 1.43968
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+      
+  AH_hagelslag_melk_tag36_11_00003: 
+    april_tag:
+      goal_id:
+        16
+    position:
+      x: -3.3
+      y: -0.2
+      z: 1.43968
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0
+      w: 1
+
