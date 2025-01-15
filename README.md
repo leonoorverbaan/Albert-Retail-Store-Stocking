@@ -1,7 +1,5 @@
 # Albert Retail Store Stocking Simulation
 
-# Control in Human Robot Interaction
-
 ## Table of contents
 1. [About](#about)
 2. [Method](#method)
